@@ -1,0 +1,47 @@
+C:\Users\m.salehi\source\repos\TokenDemo\TokenDemo\bin\Debug\netcoreapp2.2\TokenDemo.deps.json
+C:\Users\m.salehi\source\repos\TokenDemo\TokenDemo\bin\Debug\netcoreapp2.2\TokenDemo.runtimeconfig.json
+C:\Users\m.salehi\source\repos\TokenDemo\TokenDemo\bin\Debug\netcoreapp2.2\TokenDemo.runtimeconfig.dev.json
+C:\Users\m.salehi\source\repos\TokenDemo\TokenDemo\bin\Debug\netcoreapp2.2\TokenDemo.dll
+C:\Users\m.salehi\source\repos\TokenDemo\TokenDemo\bin\Debug\netcoreapp2.2\TokenDemo.pdb
+C:\Users\m.salehi\source\repos\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.2\TokenDemo.csprojAssemblyReference.cache
+C:\Users\m.salehi\source\repos\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.2\TokenDemo.csproj.CoreCompileInputs.cache
+C:\Users\m.salehi\source\repos\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.2\TokenDemo.RazorAssemblyInfo.cache
+C:\Users\m.salehi\source\repos\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.2\TokenDemo.RazorAssemblyInfo.cs
+C:\Users\m.salehi\source\repos\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.2\TokenDemo.AssemblyInfoInputs.cache
+C:\Users\m.salehi\source\repos\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.2\TokenDemo.AssemblyInfo.cs
+C:\Users\m.salehi\source\repos\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.2\TokenDemo.RazorTargetAssemblyInfo.cache
+C:\Users\m.salehi\source\repos\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.2\TokenDemo.dll
+C:\Users\m.salehi\source\repos\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.2\TokenDemo.pdb
+C:\Users\m.salehi\source\repos\New folder\TokenDemo\TokenDemo\bin\Debug\netcoreapp2.2\TokenDemo.deps.json
+C:\Users\m.salehi\source\repos\New folder\TokenDemo\TokenDemo\bin\Debug\netcoreapp2.2\TokenDemo.runtimeconfig.json
+C:\Users\m.salehi\source\repos\New folder\TokenDemo\TokenDemo\bin\Debug\netcoreapp2.2\TokenDemo.runtimeconfig.dev.json
+C:\Users\m.salehi\source\repos\New folder\TokenDemo\TokenDemo\bin\Debug\netcoreapp2.2\TokenDemo.dll
+C:\Users\m.salehi\source\repos\New folder\TokenDemo\TokenDemo\bin\Debug\netcoreapp2.2\TokenDemo.pdb
+C:\Users\m.salehi\source\repos\New folder\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.2\TokenDemo.csprojAssemblyReference.cache
+C:\Users\m.salehi\source\repos\New folder\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.2\TokenDemo.csproj.CoreCompileInputs.cache
+C:\Users\m.salehi\source\repos\New folder\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.2\TokenDemo.RazorAssemblyInfo.cache
+C:\Users\m.salehi\source\repos\New folder\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.2\TokenDemo.RazorAssemblyInfo.cs
+C:\Users\m.salehi\source\repos\New folder\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.2\TokenDemo.AssemblyInfoInputs.cache
+C:\Users\m.salehi\source\repos\New folder\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.2\TokenDemo.AssemblyInfo.cs
+C:\Users\m.salehi\source\repos\New folder\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.2\TokenDemo.RazorTargetAssemblyInfo.cache
+C:\Users\m.salehi\source\repos\New folder\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.2\TokenDemo.dll
+C:\Users\m.salehi\source\repos\New folder\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.2\TokenDemo.pdb
+C:\Users\mahdavi\Desktop\New folder (2)\New folder\TokenDemo\TokenDemo\bin\Debug\netcoreapp2.2\TokenDemo.deps.json
+C:\Users\mahdavi\Desktop\New folder (2)\New folder\TokenDemo\TokenDemo\bin\Debug\netcoreapp2.2\TokenDemo.runtimeconfig.json
+C:\Users\mahdavi\Desktop\New folder (2)\New folder\TokenDemo\TokenDemo\bin\Debug\netcoreapp2.2\TokenDemo.runtimeconfig.dev.json
+C:\Users\mahdavi\Desktop\New folder (2)\New folder\TokenDemo\TokenDemo\bin\Debug\netcoreapp2.2\TokenDemo.dll
+C:\Users\mahdavi\Desktop\New folder (2)\New folder\TokenDemo\TokenDemo\bin\Debug\netcoreapp2.2\TokenDemo.pdb
+C:\Users\mahdavi\Desktop\New folder (2)\New folder\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.2\TokenDemo.csprojAssemblyReference.cache
+C:\Users\mahdavi\Desktop\New folder (2)\New folder\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.2\TokenDemo.csproj.CoreCompileInputs.cache
+C:\Users\mahdavi\Desktop\New folder (2)\New folder\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.2\TokenDemo.RazorAssemblyInfo.cache
+C:\Users\mahdavi\Desktop\New folder (2)\New folder\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.2\TokenDemo.RazorAssemblyInfo.cs
+C:\Users\mahdavi\Desktop\New folder (2)\New folder\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.2\TokenDemo.AssemblyInfoInputs.cache
+C:\Users\mahdavi\Desktop\New folder (2)\New folder\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.2\TokenDemo.AssemblyInfo.cs
+C:\Users\mahdavi\Desktop\New folder (2)\New folder\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.2\TokenDemo.RazorTargetAssemblyInfo.cache
+C:\Users\mahdavi\Desktop\New folder (2)\New folder\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.2\TokenDemo.dll
+C:\Users\mahdavi\Desktop\New folder (2)\New folder\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.2\TokenDemo.pdb
+C:\Users\mahdavi\Desktop\New folder (2)\New folder\TokenDemo\TokenDemo\bin\Debug\netcoreapp2.2\DataContext.dll
+C:\Users\mahdavi\Desktop\New folder (2)\New folder\TokenDemo\TokenDemo\bin\Debug\netcoreapp2.2\Repository.dll
+C:\Users\mahdavi\Desktop\New folder (2)\New folder\TokenDemo\TokenDemo\bin\Debug\netcoreapp2.2\DataContext.pdb
+C:\Users\mahdavi\Desktop\New folder (2)\New folder\TokenDemo\TokenDemo\bin\Debug\netcoreapp2.2\Repository.pdb
+C:\Users\mahdavi\Desktop\New folder (2)\New folder\TokenDemo\TokenDemo\obj\Debug\netcoreapp2.2\TokenDemo.csproj.CopyComplete
