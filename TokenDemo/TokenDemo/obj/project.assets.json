@@ -12984,11 +12984,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\m.salehi\\Desktop\\new\\TokenDemo\\TokenDemo\\TokenDemo.csproj",
+      "projectUniqueName": "C:\\Users\\m.salehi\\Desktop\\gitclone\\NewCore\\TokenDemo\\TokenDemo\\TokenDemo.csproj",
       "projectName": "TokenDemo",
-      "projectPath": "C:\\Users\\m.salehi\\Desktop\\new\\TokenDemo\\TokenDemo\\TokenDemo.csproj",
+      "projectPath": "C:\\Users\\m.salehi\\Desktop\\gitclone\\NewCore\\TokenDemo\\TokenDemo\\TokenDemo.csproj",
       "packagesPath": "C:\\Users\\m.salehi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\m.salehi\\Desktop\\new\\TokenDemo\\TokenDemo\\obj\\",
+      "outputPath": "C:\\Users\\m.salehi\\Desktop\\gitclone\\NewCore\\TokenDemo\\TokenDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13007,11 +13007,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\m.salehi\\Desktop\\new\\TokenDemo\\DataContext\\DataContext.csproj": {
-              "projectPath": "C:\\Users\\m.salehi\\Desktop\\new\\TokenDemo\\DataContext\\DataContext.csproj"
+            "C:\\Users\\m.salehi\\Desktop\\gitclone\\NewCore\\TokenDemo\\DataContext\\DataContext.csproj": {
+              "projectPath": "C:\\Users\\m.salehi\\Desktop\\gitclone\\NewCore\\TokenDemo\\DataContext\\DataContext.csproj"
             },
-            "C:\\Users\\m.salehi\\Desktop\\new\\TokenDemo\\Repository\\Repository.csproj": {
-              "projectPath": "C:\\Users\\m.salehi\\Desktop\\new\\TokenDemo\\Repository\\Repository.csproj"
+            "C:\\Users\\m.salehi\\Desktop\\gitclone\\NewCore\\TokenDemo\\Repository\\Repository.csproj": {
+              "projectPath": "C:\\Users\\m.salehi\\Desktop\\gitclone\\NewCore\\TokenDemo\\Repository\\Repository.csproj"
             }
           }
         }

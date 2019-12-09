@@ -733,11 +733,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\m.salehi\\Desktop\\new\\TokenDemo\\Repository\\Repository.csproj",
+      "projectUniqueName": "C:\\Users\\m.salehi\\Desktop\\gitclone\\NewCore\\TokenDemo\\Repository\\Repository.csproj",
       "projectName": "Repository",
-      "projectPath": "C:\\Users\\m.salehi\\Desktop\\new\\TokenDemo\\Repository\\Repository.csproj",
+      "projectPath": "C:\\Users\\m.salehi\\Desktop\\gitclone\\NewCore\\TokenDemo\\Repository\\Repository.csproj",
       "packagesPath": "C:\\Users\\m.salehi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\m.salehi\\Desktop\\new\\TokenDemo\\Repository\\obj\\",
+      "outputPath": "C:\\Users\\m.salehi\\Desktop\\gitclone\\NewCore\\TokenDemo\\Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
