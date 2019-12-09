@@ -13,6 +13,7 @@ namespace TokenDemo.FCM
 {
     public class FCMPushNotification
     {
+        //
         #region [- ctor -]
         public FCMPushNotification(FCMResult ref_FCMResult)
         {
