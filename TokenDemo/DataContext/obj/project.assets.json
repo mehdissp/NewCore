@@ -746,23 +746,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\m.salehi\\.nuget\\packages\\": {},
+    "C:\\Users\\mahdavi\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\m.salehi\\Desktop\\gitclone\\NewCore\\TokenDemo\\DataContext\\DataContext.csproj",
+      "projectUniqueName": "C:\\Users\\mahdavi\\Desktop\\Git\\NewCore\\TokenDemo\\DataContext\\DataContext.csproj",
       "projectName": "DataContext",
-      "projectPath": "C:\\Users\\m.salehi\\Desktop\\gitclone\\NewCore\\TokenDemo\\DataContext\\DataContext.csproj",
-      "packagesPath": "C:\\Users\\m.salehi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\m.salehi\\Desktop\\gitclone\\NewCore\\TokenDemo\\DataContext\\obj\\",
+      "projectPath": "C:\\Users\\mahdavi\\Desktop\\Git\\NewCore\\TokenDemo\\DataContext\\DataContext.csproj",
+      "packagesPath": "C:\\Users\\mahdavi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mahdavi\\Desktop\\Git\\NewCore\\TokenDemo\\DataContext\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\m.salehi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mahdavi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -775,8 +775,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\m.salehi\\Desktop\\gitclone\\NewCore\\TokenDemo\\Repository\\Repository.csproj": {
-              "projectPath": "C:\\Users\\m.salehi\\Desktop\\gitclone\\NewCore\\TokenDemo\\Repository\\Repository.csproj"
+            "C:\\Users\\mahdavi\\Desktop\\Git\\NewCore\\TokenDemo\\Repository\\Repository.csproj": {
+              "projectPath": "C:\\Users\\mahdavi\\Desktop\\Git\\NewCore\\TokenDemo\\Repository\\Repository.csproj"
             }
           }
         }
